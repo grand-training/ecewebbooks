@@ -1,8 +1,6 @@
 @font-face {
     font-family: 'Bubblegum Sans', cursive;
-    src: url("webfontkit/tubular-webfont.woff2") format("woff2"),
-         url("webfontkit/tubular-webfont.woff") format("woff"),
-         url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+    url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
     font-weight: normal;
     font-style: normal;
 }
